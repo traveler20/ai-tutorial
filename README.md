@@ -82,7 +82,7 @@ illustrator と Photoshop の違い
 
 ### 今回作成するもの
 
-![Lステップ](https://d.kuku.lu/49414fee7b)
+![Lステップ](img/com.png)
 
 L ステップやサイトに使われるボタンアイコン。
 
